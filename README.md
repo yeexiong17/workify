@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/167e7e81-29b3-443e-bb9d-16737b3ff4f7
 - **Reject Leave Request**
 https://github.com/user-attachments/assets/68ea3cfa-7ebb-451f-b564-f8a4bfb80f95
 
-### Team Members and Roles
+## Team Members and Roles
 
 - Jade (App Scripting, Video Producing)
 - Wong Yee Xiong (App Scripting, API integration)
