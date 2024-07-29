@@ -6,6 +6,7 @@
 - **Notion API**: Linking has been done in the code, no setup needed
 
 ## Links
+- [Workify Web App](https://script.google.com/macros/s/AKfycbwLyWzwRyrjAtSpgKQAsf0VQtZp8H-BHyzVJ3roG4eSHtBJutMcH7bf3_yzCuq7SCDc/exec)
 - [Google Sheet Database](https://docs.google.com/spreadsheets/d/15L9SYMDR6BmOJWojmwAtpoyq4BEdeM2c4hftyADMCsc/edit?gid=23863867#gid=23863867)
 - [Notion (Employees Database)](https://www.notion.so/c3ffe9dade5343629254889a500311e9?v=207b2eec583d4b10a87a0049209e45db&pvs=4)
 - [Notion (Company Home Page)](https://www.notion.so/50faf9f62acc4ebb88a303d6ab8a0fe7?v=4d7ca82863c943e28375e3fc17611b5f&pvs=4)
