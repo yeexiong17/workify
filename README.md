@@ -20,6 +20,8 @@ https://github.com/user-attachments/assets/bccae2a5-81f0-4113-aaa4-b4726be60132
 https://github.com/user-attachments/assets/167e7e81-29b3-443e-bb9d-16737b3ff4f7
 - **Reject Leave Request**
 https://github.com/user-attachments/assets/68ea3cfa-7ebb-451f-b564-f8a4bfb80f95
+- **Notion Database Integration**
+https://github.com/user-attachments/assets/7d4faf1d-a3c7-4583-b335-4f9c67f3265b
 
 ## Team Members and Roles
 
