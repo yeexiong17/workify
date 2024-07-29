@@ -12,6 +12,11 @@
 - [Notion (View of Employees)](https://www.notion.so/cde6f1a283e941faaf0a51b8d475699d?v=47a26c97a15c4728bfb947eebf644a16&pvs=4)
 - [Google Drive](https://drive.google.com/drive/folders/1J0_QOcTDPRu_yvudOWW6o4J5e8b7HgeL?usp=sharing)
 
+## Demo Video
+- **Creating Leave Request**
+https://github.com/user-attachments/assets/167e7e81-29b3-443e-bb9d-16737b3ff4f7
+
+
 ### Team Members and Roles
 
 - Jade (App Scripting, Video Producing)
