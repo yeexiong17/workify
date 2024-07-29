@@ -24,6 +24,6 @@ https://github.com/user-attachments/assets/68ea3cfa-7ebb-451f-b564-f8a4bfb80f95
 ## Team Members and Roles
 
 - Jade (App Scripting, Video Producing, Team Lead)
-- Wong Yee Xiong (App Scripting, API integration)
 - Evi (App Scripting, Research)
+- Wong Yee Xiong (App Scripting, API integration)
 - Ee Mun (App Scripting, Research)
