@@ -16,7 +16,8 @@
 ## Demo Video
 - **Creating Leave Request**
 https://github.com/user-attachments/assets/167e7e81-29b3-443e-bb9d-16737b3ff4f7
-
+- **Recruitment Feature**
+https://github.com/user-attachments/assets/bccae2a5-81f0-4113-aaa4-b4726be60132
 
 ### Team Members and Roles
 
